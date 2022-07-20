@@ -1,9 +1,7 @@
 ### Hi there 👋
 Mudit Garg this end !!
-              
-SIT Pune CSE (2021-25)
-               
-Tech Content Writer & Blogger
+- SIT Pune CSE (2021-25)
+- Tech Content Writer & Blogger
 
 - 🔭 I’m currently working on learning and developing new skills
 - 🌱 I’m currently learning about topics: Cyber Security, Blockchain, Programming in C, C++, Python
