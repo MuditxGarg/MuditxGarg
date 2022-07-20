@@ -1,8 +1,9 @@
 ### Hi there 👋
 Mudit Garg this end !!
+       
 SIT Pune CSE (2021-25)
+       
 Tech Content Writer & Blogger
-Stamp Collector (Philately)
 
 - 🔭 I’m currently working on learning and developing new skills
 - 🌱 I’m currently learning about topics: Cyber Security, Blockchain, Programming in C, C++, Python
