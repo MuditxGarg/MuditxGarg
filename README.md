@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mudit Garg</h1>
-<h3 align="center">Passionate about AI/ML & Innovation | Final Year BTech CSE (Hons. AIML) Student, SIT Pune | GATE 2024 Qualified (DA & CS) | Diploma in Business Management (SIBM) | Actively Engaged in Hackathons & Project Competitions</h3>
+<h3 align="center">Passionate about AI/ML & Innovation | B.Tech CSE (Hons. AIML, CGPA 9.10, Dept Rank 3), SIT Pune | Associate Consultant @ Oracle (OFSS) | GATE 2024, 2025 Qualified (DA & CS) | Diploma in Business Management (SIBM) | Multiple Hackathons Winner & Research Author</h3>
 
 # 💫 About Me:
-- 🎓 Pursuing B.Tech Computer Science Engineering with Hons in AIML at SIT Pune (2021-2025)
+- 🎓 B.Tech Computer Science Engineering (Hons. AIML), SIT Pune – Graduated with 9.10 CGPA (Dept. Rank 3)
+- 💼 Associate Consultant at Oracle (OFSS), with prior AI/ML internship experience in Generative AI, RAG pipelines & agentic frameworks
 - 🌱 Expanding knowledge in Deep Learning, Data Analytics & Visualization, and Generative AI
+- 🏆 Built award-winning AI projects in healthcare, accessibility & agriculture; Best Paper Award (IEEE ICACTA 2023)
 - 🚀 Seeking collaboration on cutting-edge Computer Vision and AI-driven projects with a focus on AI for Good
 - 🧑‍💻 Currently working on multiple projects in Generative AI, NLP, and Computer Vision
 - 💬 Ask me about AI/ML innovations, Project Management, and Computer Vision
